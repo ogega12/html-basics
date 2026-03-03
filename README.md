@@ -1,3 +1,0 @@
-# PAULINHO
-# LINHO
-# paul
