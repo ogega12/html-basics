@@ -73,3 +73,13 @@ th,td{
     background-color: aqua;
     text-align: center;
 }
+#container{
+    display: flex;
+}
+.proj{
+    border: 1px solid turquoise ;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px skyblue;
+    margin-right: 5px;
+}
